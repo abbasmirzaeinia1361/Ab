@@ -1,2 +1,0 @@
-# Ab
-AboAtash is perconal 
